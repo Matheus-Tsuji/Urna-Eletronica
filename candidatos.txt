@@ -1,0 +1,4 @@
+13;Lula;Partido dos Trabalhadores
+22;Flavio Bolsonaro;Partido Liberal
+14;Renan Santos;Partido Missao
+55;Caiado;Partido Social Democratico

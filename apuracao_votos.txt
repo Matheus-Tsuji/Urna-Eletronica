@@ -1,0 +1,9 @@
+=== APURACAO DOS VOTOS ===
+
+[13] Lula (Partido dos Trabalhadores): 54210 votos
+[22] Flavio Bolsonaro (Partido Liberal): 49302 votos
+[14] Renan Santos (Partido Missao): 18451 votos
+[55] Caiado (Partido Social Democratico): 11200 votos
+
+VOTOS EM BRANCO: 2045
+VOTOS NULOS: 5122
